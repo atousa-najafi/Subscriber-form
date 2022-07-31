@@ -1,2 +1,2 @@
-# Subscriber-form
+# Subscriber Form
 A WordPress plugin.
